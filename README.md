@@ -59,3 +59,7 @@ management.security.enabled=false
 
 ### Add the Appropriate Properties/ Yaml File of your Spring Application to the Config Folder
 
+### Resources 
+
+https://cloud.spring.io/spring-cloud-config/multi/multi__spring_cloud_config_server.html
+ 
